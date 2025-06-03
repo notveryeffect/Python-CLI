@@ -40,4 +40,3 @@ python main.py
 > Inserisci nome: Mario
 > Inserisci età: 28
 Record salvato con successo!
-```
